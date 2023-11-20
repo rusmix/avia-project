@@ -1,0 +1,2 @@
+INSERT INTO main.Flight (arrival_time, departure_time, arrival_airport, departure_airport, flight_number, Plane_id) VALUES
+(':arrival_time', ':departure_time', ':arrival_airport', ':departure_airport', ':flight_number', :Plane_id);
