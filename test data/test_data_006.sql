@@ -1,0 +1,16 @@
+INSERT INTO main.Plane (mode, manufacturer, plane_number, Pilot_id) VALUES
+('Boeing 747', 'Boeing', 3001, 4),
+('Boeing 737', 'Airbus', 3002, 6),
+('Boeing 737', 'Airbus', 3003, 2),
+('Airbus A320', 'Airbus', 3004, 9),
+('Boeing 737', 'Airbus', 3005, 5),
+('Boeing 777', 'Boeing', 3006, 8),
+('Airbus A320', 'Boeing', 3007, 5),
+('Boeing 737', 'Boeing', 3008, 7),
+('Airbus A350', 'Airbus', 3009, 7),
+('Boeing 747', 'Airbus', 3010, 1),
+('Boeing 747', 'Boeing', 3011, 4),
+('Airbus A320', 'Boeing', 3012, 10),
+('Airbus A320', 'Airbus', 3013, 6),
+('Airbus A350', 'Boeing', 3014, 1),
+('Boeing 737', 'Airbus', 3015, 1);
