@@ -26,6 +26,6 @@ INSERT INTO main.Pilot_Plane (Pilot_id, Plane_id) VALUES
 (9, 6),
 (9, 10),
 (9, 13),
-(10, 8);
-(10, 15);
+(10, 8),
+(10, 15),
 (10, 3);
