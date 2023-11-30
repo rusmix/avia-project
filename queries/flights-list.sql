@@ -36,6 +36,7 @@ JOIN
 WHERE 
     f.departure_time >= :beginPeriod
     AND f.departure_time <= :endPeriod
+GROUP BY    
     f.Flight_id, p.Pilot_id, per.name, per.lastname
 ORDER BY 
     f.Flight_id;
